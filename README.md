@@ -6,4 +6,4 @@ To sucessfully run the tests you need to do the following steps:
 * npm selenium
 * npm selenium-start
 * take the wdio.conf.js file and put it to node-modules/.bin
-* go to node-modules/.bin via the command prompt and write wdio wdio.conf
+* open the command prompt and navigate to node-modules/.bin and runt he tests with writing: "wdio wdio.conf"
