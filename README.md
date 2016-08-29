@@ -2,6 +2,7 @@
 
 To sucessfully run the tests you need to do the following steps:
 
+* clone the repos and navigate to the it
 * npm install
 * npm selenium
 * npm selenium-start
