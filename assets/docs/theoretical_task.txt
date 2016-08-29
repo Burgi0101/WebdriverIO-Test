@@ -1,0 +1,25 @@
+Thats how i would define the Page Objects of the main page by simply looking 
+at the components of the page and thinking how I would test them.
+
+1.) UserForm
+	>Login
+	>Register
+	>Forgot PW
+	>Usermenu (Logged in)
+	>Shop (Logged in)
+	>Last played (Logged in)
+
+2.) Navigation
+	>Slots
+	>Bingo
+	>Casino
+	>Poker
+	>Skill Games
+3.) Search
+4.) Teasers
+5.) Most Resent
+6.) Bonus
+7.) Top & New
+8.) Language Switcher
+9.) Help
+10.) Footer
